@@ -1,0 +1,15 @@
+Similarities with unstructured data so that you can group similar points together 
+
+    Points  
+    K is number of clusters
+    k = 3 / 3 clusters 
+    randomly select three data points same as k
+    
+    step 3
+    measure the distance between first point and the three intitial clusters 
+    step 4 
+    
+    step 5
+    calculate the mean of each cluster
+    
+    sum the variation

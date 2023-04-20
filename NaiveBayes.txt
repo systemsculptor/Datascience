@@ -1,0 +1,14 @@
+NaiveBayes Notes:
+
+Algorithm 
+
+
+Histogram of all the words 
+
+Probability of certain word divided by all messages
+Assign it to the same certain word value 
+
+
+Certain Word divided by the spam 
+
+Prior probability 
